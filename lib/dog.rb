@@ -8,8 +8,6 @@ class Dog
     @name
 end
 
-
-
   def breed
     @breed
   end
